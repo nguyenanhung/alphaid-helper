@@ -1,7 +1,5 @@
 # CONTRIBUTING GUIDE
 
-
-
 ## Contact & Support
 
 If any question & request, please contact following information
