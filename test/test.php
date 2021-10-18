@@ -8,3 +8,5 @@
  * Time: 01:35
  */
 require_once __DIR__ . '/../vendor/autoload.php';
+
+echo generateAlphaId(date('YmdHisu')) . PHP_EOL;
